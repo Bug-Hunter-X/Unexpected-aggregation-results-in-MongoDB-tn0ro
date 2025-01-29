@@ -1,0 +1,2 @@
+# Unexpected Aggregation Results in MongoDB
+This repository demonstrates a common error encountered when using MongoDB aggregation pipelines: producing inaccurate results due to the order of pipeline stages.  The `bug.js` file contains code that demonstrates the problem, while `bugSolution.js` provides the correct implementation.
